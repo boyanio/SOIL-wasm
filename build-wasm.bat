@@ -1,0 +1,1 @@
+emcc src/image_DXT.c src/image_helper.c src/SOIL.c src/stb_image_aug.c -o libSOIL.bc
